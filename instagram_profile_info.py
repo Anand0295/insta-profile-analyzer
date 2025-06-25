@@ -12,10 +12,10 @@ Features:
 - Cross-platform compatibility (Windows, macOS, Linux)
 - Clean, professional output formatting
 
-Author: Your Name
+Author: Anand
 Version: 1.0.0
 License: MIT
-Repository: https://github.com/yourusername/insta-profile-analyzer
+Repository: https://github.com/Anand0295/insta-profile-analyzer
 
 Requirements:
     pip install instaloader
@@ -23,7 +23,7 @@ Requirements:
 Usage:
     python instagram_profile_info.py
 
-For more information, visit: https://github.com/yourusername/insta-profile-analyzer
+For more information, visit: https://github.com/Anand0295/insta-profile-analyzer
 """
 
 import instaloader

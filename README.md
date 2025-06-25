@@ -41,7 +41,7 @@ A powerful yet beginner-friendly Python application that automatically fetches a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/insta-profile-analyzer.git
+   git clone https://github.com/Anand0295/insta-profile-analyzer.git
    cd insta-profile-analyzer
    ```
 
@@ -179,7 +179,7 @@ Contributions are welcome! Here's how you can help:
 ### Development Setup
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/insta-profile-analyzer.git
+git clone https://github.com/Anand0295/insta-profile-analyzer.git
 
 # Create virtual environment
 python -m venv venv
@@ -233,7 +233,7 @@ python -m pytest tests/
 ### Getting Help
 
 If you encounter issues:
-1. Check the [Issues](https://github.com/yourusername/insta-profile-analyzer/issues) page
+1. Check the [Issues](https://github.com/Anand0295/insta-profile-analyzer/issues) page
 2. Create a new issue with detailed description
 3. Include error messages and system information
 
@@ -249,12 +249,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **GitHub**: [@Anand0295](https://github.com/Anand0295)
+- **Email**: anand.developer@example.com
+- **LinkedIn**: [Anand's LinkedIn Profile](https://linkedin.com/in/anand0295)
 
 ---
 
 ⭐ **Star this repository if you found it helpful!** ⭐
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Anand

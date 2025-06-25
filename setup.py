@@ -13,12 +13,12 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="instagram-profile-analyzer",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Anand",
+    author_email="anand.developer@example.com",
     description="A powerful yet beginner-friendly Instagram profile analyzer",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/insta-profile-analyzer",
+    url="https://github.com/Anand0295/insta-profile-analyzer",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -40,8 +40,8 @@ setup(
     install_requires=requirements,
     keywords="instagram, profile, analyzer, social-media, data-extraction, instaloader",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/insta-profile-analyzer/issues",
-        "Source": "https://github.com/yourusername/insta-profile-analyzer",
-        "Documentation": "https://github.com/yourusername/insta-profile-analyzer#readme",
+        "Bug Reports": "https://github.com/Anand0295/insta-profile-analyzer/issues",
+        "Source": "https://github.com/Anand0295/insta-profile-analyzer",
+        "Documentation": "https://github.com/Anand0295/insta-profile-analyzer#readme",
     },
 )

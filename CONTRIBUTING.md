@@ -30,7 +30,7 @@ Thank you for your interest in contributing to the Instagram Profile Analyzer! T
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/yourusername/insta-profile-analyzer.git
+   git clone https://github.com/Anand0295/insta-profile-analyzer.git
    cd insta-profile-analyzer
    ```
 
@@ -131,7 +131,7 @@ git commit -m "docs(readme): update installation instructions"
 ### Local Development
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/insta-profile-analyzer.git
+git clone https://github.com/Anand0295/insta-profile-analyzer.git
 cd insta-profile-analyzer
 python -m venv venv
 source venv/bin/activate
