@@ -247,13 +247,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Python Community** - For amazing libraries and documentation
 - **Contributors** - Everyone who helps improve this project
 
-## 📞 Contact
-
-- **GitHub**: [@Anand0295](https://github.com/Anand0295)
-- **Email**: anand.developer@example.com
-- **LinkedIn**: [Anand's LinkedIn Profile](https://linkedin.com/in/anand0295)
-
----
 
 ⭐ **Star this repository if you found it helpful!** ⭐
 
