@@ -16,19 +16,6 @@ A powerful yet beginner-friendly Python application that automatically fetches a
 - 🌐 **Cross-Platform** - Works on Windows, macOS, and Linux
 - 🚀 **Beginner Friendly** - Clean code with extensive documentation
 
-## 🖼️ Screenshots
-
-### Main Interface
-![Main Interface](screenshots/main_interface.png)
-*Clean and intuitive command-line interface*
-
-### Profile Analysis
-![Profile Analysis](screenshots/profile_analysis.png)
-*Comprehensive profile information display*
-
-### Automatic Features
-![Auto Features](screenshots/auto_features.png)
-*Profile picture opens automatically with detailed post analysis*
 
 ## 🚀 Quick Start
 
