@@ -101,8 +101,7 @@ A powerful yet beginner-friendly Python application that automatically fetches a
 insta-profile-analyzer/
 ├── instagram_profile_info.py    # Main application
 ├── requirements.txt             # Dependencies
-├── README.md                   # Documentation
-├── screenshots/                # Application screenshots
+├── README.md                   # Documentation              
 └── LICENSE                     # MIT License
 ```
 
